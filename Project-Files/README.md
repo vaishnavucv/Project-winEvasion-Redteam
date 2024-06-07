@@ -24,7 +24,8 @@ The project aims to advance red team engagements and push the limits of current 
 - **Kali Linux** attacker machine
     - [Kali Linux Cloud Access from Azure for WAN and real world scenario approch](https://azuremarketplace.microsoft.com/en/marketplace/apps/kali-linux.kali)
     - [Kali Linux VM for Local Lab and Demo/testing](https://www.kali.org/get-kali/#kali-virtual-machines)
-- [**Python** installed on both Windows and Kali Linux](https://www.python.org/downloads/)
+- [**Python**: installed on both Windows and Kali Linux](https://www.python.org/downloads/)
+- [**Docker**: Building and Hosting Mail server in Kali Linux](https://github.com/vaishnavucv/Project-winEvasion-Redteam/blob/main/Resource/Dockerfile) 
 - [**PowerShell** with script execution policy set to unrestricted](https://learn.microsoft.com/en-us/answers/questions/506985/powershell-execution-setting-is-overridden-by-a-po)
 - [**Administrator privileges** on the Windows system](https://support.microsoft.com/en-us/windows/how-do-i-log-on-as-an-administrator-63267a09-9926-991a-1c77-d203160c8563)
 - [**Internet connection** for downloading necessary tools and scripts](#)
