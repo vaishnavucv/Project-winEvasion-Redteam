@@ -23,46 +23,12 @@ Meanwhile, the adversary gains access to the employee's company laptop. The adve
 The PowerShell script is obfuscated to evade antivirus detection. Once the obfuscated script is running in memory, it gains access to the laptop and spams UAC (User Account Control) prompts to obtain administrative rights. After successfully bypassing UAC, the adversary gains full control over the system.** 
 
 
-> [!NOTE]
-> **Bāsed on this scenario, the relevant MITRE ATT&CK® techniques are as follows:**
-1. Phishing Email Sent to Employee
-    -	Technique: Phishing
-    - Tactic: Initial Access
-    - ID: T1566
-2.	Employee Opens and Downloads the File
-    - Technique: User Execution
-    - Tactic: Execution
-    - ID: T1204
-3.	File is a ZIP with Password
-    - Technique: Archive Collected Data
-    - Tactic: Collection
-    - ID: T1560
-4.	Employee Unzips and Tests the File
-    - Technique: User Execution
-    - Tactic: Execution
-    - ID: T1204
-5.	Adversary Gains Access to the Laptop
-    - Technique: Valid Accounts
-    - Tactic: Persistence
-    - ID: T1078
-6.	PowerShell Script Delivered as EXE
-    - Technique: Command and Scripting Interpreter: PowerShell
-    - Tactic: Execution
-    - ID: T1059.001
-7.	PowerShell Script Downloads and Executes in Memory
-    - Technique: Ingress Tool Transfer
-    - Tactic: Command and Control
-    - ID: T1105
-8.	Script Obfuscation to Avoid Detection
-    - Technique: Obfuscated Files or Information
-    - Tactic: Defense Evasion
-    - ID: T1027
-9.	Spamming UAC Prompts to Gain Admin Rights
-    - Technique: Bypass User Account Control
-    - Tactic: Privilege Escalation
-    - ID: T1548.002
+> [!IMPORTANT]
+> Find [MITRE ATT&CK for Scenario](https://github.com/vaishnavucv/Project-winEvasion-Redteam/tree/main/MITRE%20ATT&CK)
+
 > [!NOTE]
 > ATT&CK Navigator File
+
 [Attack json file | download ](https://raw.githubusercontent.com/vaishnavucv/Project-winEvasion-Redteam/main/Resource/adversary_tactics_and_techniques_for_hacking_win11-10_using_phishing_scenario.json) upload to [ATT&CK Navigator](https://mitre-attack.github.io/attack-navigator/) for customization or for better view.
 
 + MITRE ATT&CK®
