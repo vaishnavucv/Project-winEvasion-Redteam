@@ -68,8 +68,8 @@ The PowerShell script is obfuscated to evade antivirus detection. Once the obfus
 + MITRE ATT&CK®
 ![MITRE ATT&CK®](https://raw.githubusercontent.com/vaishnavucv/Project-winEvasion-Redteam/d964b8e74194f45dbec1982d6abb2ab59e2c0ec2/Resource/Adversary_Tactics_and_Techniques_for_Phishing_Scenario(3).svg)
 
-- [x] the above attack can be improvised 
-- [ ] 
-- [ ] Add delight to the experience when all tasks are complete 
+- [x] The above attack can be improvised 
+- [ ] Effort calculated:- 100 hours 🕙 in 2.5 months 📆 [on-going porject] 	`Approximate value`
+- [ ] Add delight to the experience when all tasks are completed
 
 #### **update coming soon..!**
