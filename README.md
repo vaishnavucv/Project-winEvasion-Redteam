@@ -18,15 +18,17 @@
 > This project demonstrates sophisticated cyber-attacks, and its findings should be used responsibly to enhance defensive strategies and improve system security.
 
 ### Scenario :
-**An adversary attempts to send a _phishing email_ to technical support _employees of a XYZ company_ . One of the employees, who lacks cybersecurity knowledge, opens the email and downloads an attached file. The file is a password-protected ZIP archive. The employee manages to unzip the file and install or test the content within it.
+_An adversary attempts to send a phishing email to technical support Employees of a XYZ company . One of the employees, who lacks cybersecurity knowledge, opens the email and downloads an attached file. The file is a password-protected ZIP archive. The employee manages to unzip the file and install or test the content within it.
 Meanwhile, the adversary gains access to the employee's company laptop. The adversary delivers a PowerShell script disguised as an executable (EXE) file. This script downloads a PowerShell script (PS1) from a cloud server into memory and executes it, bypassing detection by the employee and the default Windows security mechanisms.
-The PowerShell script is obfuscated to evade antivirus detection. Once the obfuscated script is running in memory, it gains access to the laptop and spams UAC (User Account Control) prompts to obtain administrative rights. After successfully bypassing UAC, the adversary gains full control over the system.** 
+The PowerShell script is obfuscated to evade antivirus detection. Once the obfuscated script is running in memory, it gains access to the laptop and spams UAC (User Account Control) prompts to obtain administrative rights. After successfully bypassing UAC, the adversary gains full control over the system._
 
+> [!IMPORTANT]
+> Find [Project introduction and Prerequisites](https://github.com/vaishnavucv/Project-winEvasion-Redteam/tree/main/Project-Files)
 
 > [!IMPORTANT]
 > Find [MITRE ATT&CK for Scenario](https://github.com/vaishnavucv/Project-winEvasion-Redteam/tree/main/MITRE%20ATT&CK)
 
-> [!NOTE]
+> [!IMPORTANT]
 > ATT&CK Navigator File
 
 [Attack json file | download ](https://raw.githubusercontent.com/vaishnavucv/Project-winEvasion-Redteam/main/Resource/adversary_tactics_and_techniques_for_hacking_win11-10_using_phishing_scenario.json) upload to [ATT&CK Navigator](https://mitre-attack.github.io/attack-navigator/) for customization or for better view.
