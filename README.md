@@ -11,11 +11,10 @@
 > [!IMPORTANT]
 > Regular updates to FUD payloads are necessary to keep up with the latest Windows security features and ensure continued effectiveness.
 
-> [!WARNING]
-> Simulated attacks in this project reveal potential vulnerabilities that adversaries might exploit, emphasizing the need for robust cybersecurity measures.
+## Attack - EVENT TIME LINE
 
-> [!CAUTION]
-> This project demonstrates sophisticated cyber-attacks, and its findings should be used responsibly to enhance defensive strategies and improve system security.
+![Att&ck Time Line](https://raw.githubusercontent.com/vaishnavucv/Project-winEvasion-Redteam/main/Resource/attack-time-line.png)
+
 
 ### Scenario :
 _An adversary attempts to send a phishing email to technical support Employees of a XYZ company . One of the employees, who lacks cybersecurity knowledge, opens the email and downloads an attached file. The file is a password-protected ZIP archive. The employee manages to unzip the file and install or test the content within it.
@@ -40,6 +39,11 @@ The PowerShell script is obfuscated to evade antivirus detection. Once the obfus
 - [ ] Effort calculated:- 100 hours 🕙 in 2.5 months 📆 [on-going porject] 	`Approximate value`
 - [ ] Add delight to the experience when all tasks are completed
 
+> [!WARNING]
+> Simulated attacks in this project reveal potential vulnerabilities that adversaries might exploit, emphasizing the need for robust cybersecurity measures.
+
+> [!CAUTION]
+> This project demonstrates sophisticated cyber-attacks, and its findings should be used responsibly to enhance defensive strategies and improve system security.
 
 ### **References**
 
