@@ -72,4 +72,13 @@ The PowerShell script is obfuscated to evade antivirus detection. Once the obfus
 - [ ] Effort calculated:- 100 hours 🕙 in 2.5 months 📆 [on-going porject] 	`Approximate value`
 - [ ] Add delight to the experience when all tasks are completed
 
+
+### **References**
+
+  1. [scenario reference-01](https://www.techopedia.com/antivirus/antivirus-statistics)
+  2. [scenario reference-02](https://www.malwarebytes.com/blog/news/2020/10/work-devices-for-personal-use)
+  3. [MITRE ATT&CK®](https://attack.mitre.org/)
+  4. [Attack-Naigator](https://mitre-attack.github.io/attack-navigator/)
+  5. [Windows 10/11 security update](https://techcommunity.microsoft.com/t5/windows-servicing/updates-so-often/m-p/39526)
+
 #### **update coming soon..!**
