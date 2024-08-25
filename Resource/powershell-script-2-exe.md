@@ -24,7 +24,7 @@
     ```
     > Fill in the required information in the PS2EXE application and start the conversion.
     #
-   ![alt text](https://raw.githubusercontent.com/vaishnavucv/Project-winEvasion-Redteam/main/Resource/PS2EXE.png)]
+   ![alt text](https://raw.githubusercontent.com/vaishnavucv/Project-winEvasion-Redteam/main/Resource/PS2EXE.png)
 
 5. Important Notes:
 

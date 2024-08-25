@@ -48,6 +48,8 @@ The PowerShell script is obfuscated to evade antivirus detection. Once the obfus
 ### Attack and C2 Setup 
   1. [Ubuntu Server Configuration for C2 and Mail Server](https://github.com/vaishnavucv/Project-winEvasion-Redteam/blob/main/Resource/ubuntu-server-config-for-c2%26mail-server.md)
   2. [Powershell Script to Payload.exe](https://github.com/vaishnavucv/Project-winEvasion-Redteam/blob/main/Resource/powershell-script-2-exe.md)
+  3. [Python Script for Sending Mail with Payload.exe](https://github.com/vaishnavucv/Project-winEvasion-Redteam/blob/main/Resource/mail-seding-python-script.md)
+  4.
 
 ### **References**
 
