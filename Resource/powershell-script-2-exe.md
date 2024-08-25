@@ -23,6 +23,9 @@
     C:\Program Files\WindowsPowerShell\Modules\ps2exe\1.0.13
     ```
     > Fill in the required information in the PS2EXE application and start the conversion.
+    #
+   ![alt text](https://raw.githubusercontent.com/vaishnavucv/Project-winEvasion-Redteam/main/Resource/PS2EXE.png)]
+
 5. Important Notes:
 
     While converting, the name and icon of the executable are crucial and should be carefully chosen.
