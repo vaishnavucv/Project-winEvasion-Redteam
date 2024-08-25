@@ -46,7 +46,7 @@ The PowerShell script is obfuscated to evade antivirus detection. Once the obfus
 > This project demonstrates sophisticated cyber-attacks, and its findings should be used responsibly to enhance defensive strategies and improve system security.
 
 ### Attack and C2 Setup 
-  1. [Ubuntu Server Configuration for C2 and Mail Server](https://raw.githubusercontent.com/vaishnavucv/Project-winEvasion-Redteam\Resource\ubuntu-server-config-for-c2&mail-server.md)
+  1. [Ubuntu Server Configuration for C2 and Mail Server](https://github.com/vaishnavucv/Project-winEvasion-Redteam/blob/main/Resource/ubuntu-server-config-for-c2%26mail-server.md)
   2. 
 
 ### **References**
