@@ -15,6 +15,13 @@
 
 ![Att&ck Time Line](https://raw.githubusercontent.com/vaishnavucv/Project-winEvasion-Redteam/main/Resource/attack-time-line.png)
 
+### Attack and C2 Setup 
+  1. [Ubuntu Server Configuration for C2 and Mail Server](https://github.com/vaishnavucv/Project-winEvasion-Redteam/blob/main/Resource/ubuntu-server-config-for-c2%26mail-server.md)
+  2. [Powershell Script to Payload.exe](https://github.com/vaishnavucv/Project-winEvasion-Redteam/blob/main/Resource/powershell-script-2-exe.md)
+  3. [Python Script for Sending Mail with Payload.exe](https://github.com/vaishnavucv/Project-winEvasion-Redteam/blob/main/Resource/mail-seding-python-script.md)
+  4. [Metasploit Payload Generating](https://github.com/vaishnavucv/Project-winEvasion-Redteam/blob/main/Resource/metasploit-payload-gen-step.md)
+  5. [Villain Payload](https://github.com/vaishnavucv/Project-winEvasion-Redteam/blob/main/Resource/Villain-payload-gen-step.md)
+
 
 ### Scenario :
 _An adversary attempts to send a phishing email to technical support Employees of a XYZ company . One of the employees, who lacks cybersecurity knowledge, opens the email and downloads an attached file. The file is a password-protected ZIP archive. The employee manages to unzip the file and install or test the content within it.
@@ -44,14 +51,6 @@ The PowerShell script is obfuscated to evade antivirus detection. Once the obfus
 
 > [!CAUTION]
 > This project demonstrates sophisticated cyber-attacks, and its findings should be used responsibly to enhance defensive strategies and improve system security.
-
-### Attack and C2 Setup 
-  1. [Ubuntu Server Configuration for C2 and Mail Server](https://github.com/vaishnavucv/Project-winEvasion-Redteam/blob/main/Resource/ubuntu-server-config-for-c2%26mail-server.md)
-  2. [Powershell Script to Payload.exe](https://github.com/vaishnavucv/Project-winEvasion-Redteam/blob/main/Resource/powershell-script-2-exe.md)
-  3. [Python Script for Sending Mail with Payload.exe](https://github.com/vaishnavucv/Project-winEvasion-Redteam/blob/main/Resource/mail-seding-python-script.md)
-  4. [Metasploit Payload Generating](https://github.com/vaishnavucv/Project-winEvasion-Redteam/blob/main/Resource/metasploit-payload-gen-step.md)
-  5. [Villain Payload](https://github.com/vaishnavucv/Project-winEvasion-Redteam/blob/main/Resource/Villain-payload-gen-step.md)
-
 
 ### **References**
 
