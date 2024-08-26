@@ -23,11 +23,11 @@ generate os=windows lhost=IP
 3. Once the payload is generated, copy it or use social engineering techniques to transfer the code to the victim's machine.
 4. When the Villain PowerShell script is executed on the victim's Windows 10/11 machine, the default Windows security measures will isolate the process and terminate the payload from running further.
 
-## Payload Details
+### Payload Details
 
 - Once the payload is generated, it will be in PowerShell format. The attacker can use social engineering techniques to convert the PowerShell script from Villain to an EXE or zip file for executing the payload.
 
-## Testing the Payload
+### Testing the Payload
 
 - For testing the payload, use a Windows 10/11 VM with the latest security patches installed.
 
