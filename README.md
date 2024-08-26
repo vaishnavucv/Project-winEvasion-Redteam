@@ -61,3 +61,11 @@ The PowerShell script is obfuscated to evade antivirus detection. Once the obfus
   5. [Windows 10/11 security update](https://techcommunity.microsoft.com/t5/windows-servicing/updates-so-often/m-p/39526)
 
 #### **update coming soon..!**
+<details>
+  <summary>Myself Vaishnavu C V</summary>
+  
+  ```bash
+  https://www.instagram.com/hack_with_vyshu/
+  ```
+  
+</details>
