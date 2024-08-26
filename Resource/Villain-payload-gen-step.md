@@ -15,6 +15,7 @@ generate os=windows lhost=IP
 ```
 - IP Address: The IP address can be the C2 IP or a port forwarding HOST-IP.
 
+![alt text](https://raw.githubusercontent.com/vaishnavucv/Project-winEvasion-Redteam/main/Resource/Villain-ps.png)
 ## Payload Details
 
 - Once the payload is generated, it will be in PowerShell format. The attacker can use social engineering techniques to convert the PowerShell script from Villain to an EXE or zip file for executing the payload.
