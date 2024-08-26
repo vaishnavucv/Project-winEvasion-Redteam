@@ -63,9 +63,8 @@ The PowerShell script is obfuscated to evade antivirus detection. Once the obfus
 #### **update coming soon..!**
 <details>
   <summary>Myself Vaishnavu C V</summary>
+
+  >> https://www.instagram.com/hack_with_vyshu/
   
-  ```bash
-  https://www.instagram.com/hack_with_vyshu/
-  ```
-  
+  >> https://www.linkedin.com/in/vaishnavucv/
 </details>
