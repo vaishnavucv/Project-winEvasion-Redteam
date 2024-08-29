@@ -21,6 +21,7 @@
   3. [Python Script for Sending Mail with Payload.exe](https://github.com/vaishnavucv/Project-winEvasion-Redteam/blob/main/Resource/mail-seding-python-script.md)
   4. [Metasploit Payload Generating](https://github.com/vaishnavucv/Project-winEvasion-Redteam/blob/main/Resource/metasploit-payload-gen-step.md)
   5. [Villain Payload](https://github.com/vaishnavucv/Project-winEvasion-Redteam/blob/main/Resource/Villain-payload-gen-step.md)
+  6. [Windows Defender Analysis Script](https://github.com/vaishnavucv/Project-winEvasion-Redteam/blob/main/Resource/WindowsDefender-script.md)
 
 
 ### Scenario :
@@ -60,12 +61,11 @@ The PowerShell script is obfuscated to evade antivirus detection. Once the obfus
   4. [Attack-Naigator](https://mitre-attack.github.io/attack-navigator/)
   5. [Windows 10/11 security update](https://techcommunity.microsoft.com/t5/windows-servicing/updates-so-often/m-p/39526)
 
-#### **update coming soon..!**
 <details>
   <summary>Myself Vaishnavu C V</summary>
   
   >> https://www.linkedin.com/in/vaishnavucv/
-  
+
   >> https://www.instagram.com/hack_with_vyshu/
 
 </details>
