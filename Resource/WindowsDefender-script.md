@@ -25,6 +25,6 @@ This repository contains a PowerShell script designed to analyze the status and 
 
 ### How to Use the Script
 
-1. **Download the**  [script](https://github.com/vaishnavucv/Project-winEvasion-Redteam/blob/main/Project-File/Analyze-WindowsDefender.ps1)
+1. **Download the**  [script](https://github.com/vaishnavucv/Project-winEvasion-Redteam/blob/main/Project-Files/Analyze-WindowsDefender.ps1)
 2. **RUn the script as Administrator** in poweshell
 
