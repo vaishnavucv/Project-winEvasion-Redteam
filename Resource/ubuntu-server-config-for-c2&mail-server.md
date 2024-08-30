@@ -25,6 +25,7 @@ Install Apache2
 ```bash
     sudo apt-get install apache2 -y
 ```
+
 Start Apache2 Service
 ```bash
     sudo systemctl start apache2
