@@ -22,6 +22,7 @@ This repository contains a PowerShell script designed to analyze the status and 
   - **Note:** The script no longer outputs details regarding the last Defender update due to previous parsing issues and to streamline the output.
 
   - The script waits for the user to press "Enter" before exiting.
+### Script Description and User Instruction
 
 ### How to Use the Script
 
