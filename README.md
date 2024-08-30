@@ -23,7 +23,6 @@
   5. [Villain Payload](https://github.com/vaishnavucv/Project-winEvasion-Redteam/blob/main/Resource/Villain-payload-gen-step.md)
   6. [Windows Defender Analysis Script](https://github.com/vaishnavucv/Project-winEvasion-Redteam/blob/main/Resource/WindowsDefender-script.md)
 
-
 ### Scenario :
 _An adversary attempts to send a phishing email to technical support Employees of a XYZ company . One of the employees, who lacks cybersecurity knowledge, opens the email and downloads an attached file. The file is a password-protected ZIP archive. The employee manages to unzip the file and install or test the content within it.
 Meanwhile, the adversary gains access to the employee's company laptop. The adversary delivers a PowerShell script disguised as an executable (EXE) file. This script downloads a PowerShell script (PS1) from a cloud server into memory and executes it, bypassing detection by the employee and the default Windows security mechanisms.
