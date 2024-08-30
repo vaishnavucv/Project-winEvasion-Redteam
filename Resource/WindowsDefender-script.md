@@ -45,6 +45,6 @@ After ensuring the script runs with administrative privileges, it defines and in
 2. **RUn the script as Administrator** in poweshell
 
 
-> ### Summary:
+> ###Summary:
 > - Ensure-Admin Function: Ensures the script is run with administrative privileges.
 > - Get-DefenderStatus Function: Fetches and displays the status of Windows Defender, including the last quick scan and full scan details.
