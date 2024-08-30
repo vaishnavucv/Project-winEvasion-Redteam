@@ -36,6 +36,9 @@ This repository contains a PowerShell script designed to analyze the status and 
 
 After ensuring the script runs with administrative privileges, it defines and invokes another function, `Get-DefenderStatus`, to fetch and display the status of Windows Defender.
 
+![alt text](https://github.com/vaishnavucv/Project-winEvasion-Redteam/blob/main/Resource/MainExecutionCheckingWindowsDefenderStatus.png?raw=true)
+
+
 
 ### How to Use the Script
 
