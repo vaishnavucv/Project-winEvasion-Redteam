@@ -35,8 +35,6 @@ Move the Payload Move the payload to /var/www/html, so the user can click and do
     sudo mv /path/to/payload/file /var/www/html/
 ```
 
-Here's the corrected and formatted GitHub README in Markdown:
-
 markdown
 
 # Ubuntu Server Configuration for C2 and Mail Server
