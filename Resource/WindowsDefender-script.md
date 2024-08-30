@@ -29,8 +29,11 @@ This repository contains a PowerShell script designed to analyze the status and 
   - The script will not exit until the user presses "Enter".
 
 ## 2. Function to Ensure Administrative Privileges
-  - This function, Ensure-Admin, checks if the script is running with administrator rights and restarts it with the required privileges if it's not.
+  - This function, `Ensure-Admin`, checks if the script is running with administrator rights and restarts it with the required privileges if it's not.
   ![alt text](https://github.com/vaishnavucv/Project-winEvasion-Redteam/blob/main/Resource/FunctionEnsureAdministrativePrivileges.png?raw=true)
+
+## 
+
 ### How to Use the Script
 
 1. **Download the**  [script](https://github.com/vaishnavucv/Project-winEvasion-Redteam/blob/main/Project-Files/Analyze-WindowsDefender.ps1)
