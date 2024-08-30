@@ -39,9 +39,12 @@ After ensuring the script runs with administrative privileges, it defines and in
 ![alt text](https://github.com/vaishnavucv/Project-winEvasion-Redteam/blob/main/Resource/MainExecutionCheckingWindowsDefenderStatus.png?raw=true)
 
 
-
 ### How to Use the Script
 
 1. **Download the**  [script](https://github.com/vaishnavucv/Project-winEvasion-Redteam/blob/main/Project-Files/Analyze-WindowsDefender.ps1)
 2. **RUn the script as Administrator** in poweshell
 
+
+> ### Summary:
+> - Ensure-Admin Function: Ensures the script is run with administrative privileges.
+> - Get-DefenderStatus Function: Fetches and displays the status of Windows Defender, including the last quick scan and full scan details.
