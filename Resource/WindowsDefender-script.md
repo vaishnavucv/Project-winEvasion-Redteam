@@ -32,7 +32,11 @@ This repository contains a PowerShell script designed to analyze the status and 
   - This function, `Ensure-Admin`, checks if the script is running with administrator rights and restarts it with the required privileges if it's not.
   ![alt text](https://github.com/vaishnavucv/Project-winEvasion-Redteam/blob/main/Resource/FunctionEnsureAdministrativePrivileges.png?raw=true)
 
-## 
+## 3. Main Execution - Checking Windows Defender Status
+
+After ensuring the script runs with administrative privileges, it defines and invokes another function, `Get-DefenderStatus`, to fetch and display the status of Windows Defender.
+
+![alt text](https://github.com/vaishnavucv/Project-winEvasion-Redteam/blob/main/Resource/MainExecutionCheckingWindowsDefenderStatus.png?raw=true)
 
 ### How to Use the Script
 
