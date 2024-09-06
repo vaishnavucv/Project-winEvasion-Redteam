@@ -1,6 +1,4 @@
-# Ubuntu Server Configuration for C2 and Mail Server
 
-This guide provides instructions to set up an Ubuntu server as a Command and Control (C2) and mail server.
 
 # Ubuntu Server Configuration for C2 and Mail Server
 
