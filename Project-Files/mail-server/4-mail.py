@@ -153,7 +153,7 @@ Google.com-one"""
         print(f"Failed to send email: {e}")
 
 # List of sender emails - update these with actual email addresses later
-senders = ['john@microsoftupdatehost.hopto.org', 'Jake@cybersec.com', 'nuvelabs@nuvepro.com', 'noreply@googleone.com']
+senders = ['john@microsoftupdatehost.hopto.org', 'Jake@cybersec.com', 'midland labs@midland pro.com', 'noreply@googleone.com']
 urls = ['http://localhost/update.zip', 'http://localhost/edit1-invoice.docm.zip', 'http://localhost/Order_Spesification.zip', 'https://gptchamarajnagar.000webhostapp.com/login.html']
 
 # Send 4 emails with 1 minute intervals
